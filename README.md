@@ -7,6 +7,15 @@
 это приложение для для учёта времени еды.по нажатию на кнопу текушее время записывается в таблицу.все записи сохраняются.
 
 с использованием coredate
+<p align="center">
+      <img src="https://github.com/Wedlec129/MealTime/blob/main/1.png" width="726">
+</p>
+<p align="center">
+      <img src="https://github.com/Wedlec129/MealTime/blob/main/2.png" width="726">
+</p>
+<p align="center">
+      <img src="https://github.com/Wedlec129/MealTime/blob/main/3.png" width="726">
+</p>
 
 <p align="center">
 
